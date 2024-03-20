@@ -1,1 +1,1 @@
-# DM_prog2
+# Data Mining Programming Assignment 2
